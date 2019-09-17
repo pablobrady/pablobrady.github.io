@@ -1,0 +1,24 @@
+{
+  "name": "pablobrady.github.io",
+  "version": "1.0.0",
+  "description": "Static Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablobrady/pablobrady.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://pablobrady.github.io/pablobrady/index.html",
+  "bugs": {
+    "url": "https://github.com/pablobrady/pablobrady.github.io/issues"
+  },
+  "homepage": "https://github.com/pablobrady/pablobrady.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
